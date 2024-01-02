@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first test Matching Snapshot testing 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One punch man"
+      src="https://media2.giphy.com/media/X8cs1EFGQgVL5bhVDH/giphy.gif?cid=4720ee8dr73naon14e3aqfihvo8hvm4k48hgwhw3sdtnn4k0&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      One punch man
+    </p>
+  </div>
+</div>
+`;
